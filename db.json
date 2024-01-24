@@ -1,0 +1,54 @@
+{
+  "beerAdded": [
+    {
+      "name": "Equilibrium RHO Ghost Bear",
+      "id": 4
+    }
+  ],
+  "beerRemoved": [
+    {
+      "name": "Tradisjonell Julebokk",
+      "id": 3
+    },
+    {
+      "name": "Nissebokk",
+      "id": 7
+    },
+    {
+      "name": "Fjøsnisse",
+      "id": 8
+    },
+    {
+      "name": "Juleøl stout",
+      "id": 9
+    },
+    {
+      "name": "Flåklypa spesial",
+      "id": 10
+    },
+    {
+      "name": "Julebukk",
+      "id": 11
+    },
+    {
+      "name": "Hyrdestund",
+      "id": 12
+    },
+    {
+      "name": "A Renna Glüh",
+      "id": 13
+    },
+    {
+      "name": "Espresso Yeti",
+      "id": 14
+    },
+    {
+      "name": "Valhall",
+      "id": 15
+    },
+    {
+      "name": "Hugin",
+      "id": 16
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>God jul(eøl)!</title>
+</head>
+
+<body onload="main()">
+    <div id="add-beer">
+        <label for="input">Legg til ny øl:</label>
+        <input type="text" name="input" id="input">
+        <button onclick="addBeer()">Send inn</button>
+        <h3>øl i kjøleskapet</h3>
+        <div id="beer-list"></div>
+        <hr>
+        <button onclick="popRandomBeer()">Pop a beer!</button>
+    </div>
+    <h3>drukket øl</h3>
+    <div id="drunk"></div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>

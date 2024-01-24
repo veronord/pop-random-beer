@@ -1,0 +1,11 @@
+{
+  "name": "juleol",
+  "version": "1.0.0",
+  "description": "pick random christmas beer",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
